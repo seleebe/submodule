@@ -1,3 +1,5 @@
+#include <vector>
+using namespace std;
 void QuickSort(vector<int>& a, int begin, int end) {
 	int i, j, d;
 	i = begin;
